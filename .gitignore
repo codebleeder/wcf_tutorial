@@ -1,0 +1,7 @@
+GettingStartedClient/bin/*
+GettingStartedClient/obj/*
+GettingStartedHost/bin/*
+GettingStartedHost/obj/*
+GettingStartedLib/bin/*
+GettingStartedLib/obj/*
+.vs/GettingStarted/*
